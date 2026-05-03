@@ -6,3 +6,5 @@ log.html
 report.html
 output/
 *.robot
+results/
+results/
